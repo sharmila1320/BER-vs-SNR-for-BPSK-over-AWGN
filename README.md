@@ -1,4 +1,4 @@
-🔹 Project 3: BER vs SNR for BPSK over AWGN Channel                                                                                                                           
+🔹 Project : BER vs SNR for BPSK over AWGN Channel                                                                                                                           
 
 🎯 Objective:
 Simulate how Bit Error Rate (BER) changes with SNR for BPSK (Binary Phase Shift Keying) in an AWGN (Additive White Gaussian Noise) channel. This is foundational in wireless system design and essential for RIS-based systems too.
